@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj": {}
+    "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj": {}
   },
   "projects": {
-    "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj": {
+    "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj",
+        "projectUniqueName": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj",
         "projectName": "Transactions Microservice",
-        "projectPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj",
-        "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
-        "outputPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\obj\\",
+        "projectPath": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj",
+        "packagesPath": "C:\\Users\\Anuj-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anuj-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,21 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj": {
+    "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj",
+        "projectUniqueName": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj",
         "projectName": "TransactionTests",
-        "projectPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj",
-        "packagesPath": "C:\\Users\\Yogesh\\.nuget\\packages\\",
-        "outputPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\obj\\",
+        "projectPath": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\TransactionTests.csproj",
+        "packagesPath": "C:\\Users\\Anuj-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\TransactionTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Yogesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Anuj-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,8 +108,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj": {
-                "projectPath": "E:\\CTS\\MFPE\\MFPE - Final\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj"
+              "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj": {
+                "projectPath": "C:\\Users\\Anuj-PC\\Downloads\\Retail-Banking-System-master (1)\\Retail-Banking-System-master\\Transaction API\\Transactions Microservice\\Transactions Microservice.csproj"
               }
             }
           }
@@ -162,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
