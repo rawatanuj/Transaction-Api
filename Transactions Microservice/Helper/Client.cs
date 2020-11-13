@@ -11,14 +11,14 @@ namespace Transactions_Microservice.Helper
         public HttpClient AccountDetails()
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("http://52.224.198.245");
+            client.BaseAddress = new Uri("http://52.152.207.36");
             return client;
         }
 
         public HttpClient RuleApi()
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("http://40.76.163.146");
+            client.BaseAddress = new Uri("http://52.224.74.28");
             return client;
         }
     }
