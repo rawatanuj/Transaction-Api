@@ -18,7 +18,7 @@ namespace Transactions_Microservice.Helper
         public HttpClient RuleApi()
         {
             var client = new HttpClient();
-            client.BaseAddress = new Uri("http://52.224.74.28");
+            client.BaseAddress = new Uri("http://52.224.142.231");
             return client;
         }
     }
